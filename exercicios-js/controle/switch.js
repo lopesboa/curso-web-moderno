@@ -16,6 +16,7 @@ const imprimirResultado = function(nota){
         case 3:
         case 2:
         case 1:
+        case 0:
             console.log('Reprovado')
             break
         default:
